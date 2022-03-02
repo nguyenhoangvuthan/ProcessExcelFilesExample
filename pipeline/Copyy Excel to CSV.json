@@ -1,5 +1,5 @@
 {
-	"name": "pipeline1",
+	"name": "Copyy Excel to CSV",
 	"properties": {
 		"activities": [
 			{
