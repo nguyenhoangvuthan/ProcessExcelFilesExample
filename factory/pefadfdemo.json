@@ -1,0 +1,9 @@
+{
+	"name": "pefadfdemo",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "7784dac9-2628-4b93-a45e-723e744c40be",
+		"tenantId": "c52023da-af69-4493-a601-36b0b97d0c3a"
+	}
+}
